@@ -1,0 +1,2 @@
+DIT400,Object Oriented Programmming,5
+DIT410,Management Information System,4
